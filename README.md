@@ -1,2 +1,34 @@
-# algorithms
-Algorithms written in JavaScript and C++
+# Goals
+- [ ] Sorting
+     - [x] Bubble Sort
+     - [x] Pigeonhole Sort
+     - [ ] Selection Sort
+     - [ ] Insertion Sort
+     - [ ] Heap Sort
+     - [ ] Merge Sort
+     - [ ] Quicksort (both in-place & non-in-place implementations)
+     - [ ] Shellsort
+     - [ ] Counting Sort
+     - [ ] Radix Sort
+- [ ] Searching 
+     - [ ] Linear Search
+     - [ ] Jump Search (or Block Search) - search in sorted array
+     - [ ] Binary Search - search in sorted array
+     - [ ] Interpolation Search
+- [ ] Graphs
+     - [ ] Dijkstra's Algorithm
+     - [ ] DFS
+     - [ ] BFS
+     - [ ] Kruskal's MST Algorithm 
+     - [ ] Bellman-Ford Algorithm 
+     - [ ] Floyd-Warshall Algorithm 
+     - [ ] Detect Cycle 
+     - [ ] Prim's Algorithm 
+     - [ ] Topological Sorting 
+     - [ ] Articulation Points 
+     - [ ] Bridges 
+     - [ ] Eulerian Path and Eulerian Circuit 
+     - [ ] Hamiltonian Cycle 
+     - [ ] Strongly Connected Components 
+     - [ ] Travelling Salesman Problem 
+
