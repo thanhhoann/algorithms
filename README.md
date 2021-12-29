@@ -1,4 +1,4 @@
-# Goals
+# 🧙‍♂️ Goals
 - [ ] Sorting
      - [x] Bubble Sort
      - [x] Pigeonhole Sort
